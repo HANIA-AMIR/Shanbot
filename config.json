@@ -27,8 +27,9 @@
         ""
     ],
     "DATABASE": {
+        "type": "sqlite",
         "sqlite": {
-            "storage": "data.sqlite"
+            "storage": "./data.sqlite"
         }
     },
     "APPSTATEPATH": "SHAAN-KHAN.json",
